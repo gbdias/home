@@ -11,6 +11,6 @@ I am a data analyst with experience in computational biology and genetics based 
 
 In 2018 I moved to the USA to work as a postdoctoral research associate. I fell in love with data analysis, worked with large datasets, and acquired new skills including Unix tools, R programming, cluster computing, environment management with Anaconda, version control with Git, and more.
 
-After doing genomics-focused data analysis for nearly four years I decided to broaden my skills and re-tool my CV to explore a wider range of opportunities. To this end, I recently completed the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics){:target="_blank"}.
+After working on genomics-focused data analysis for nearly four years I decided to broaden my skills and re-tool my CV to explore a wider range of opportunities. To this end, I recently completed the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics){:target="_blank"}.
 
 In my free time I like to explore the city, read, and watch TV shows.
