@@ -31,6 +31,7 @@
 }
 
 .rounded-social-buttons .fa-twitter,
+.fa-scholar,
 .fa-facebook-f,
 .fa-linkedin,
 .fa-github,
@@ -58,6 +59,16 @@
   color: #55acee;
   background: #fefefe;
   border-color: #55acee;
+}
+
+.rounded-social-buttons .social-button.scholar {
+  background: #000000;
+}
+
+.rounded-social-buttons .social-button.scholar:hover, .rounded-social-buttons .social-button.scholar:focus {
+  color: #000000;
+  background: #ffffff;
+  border-color: #000000;
 }
 
 .rounded-social-buttons .social-button.linkedin {

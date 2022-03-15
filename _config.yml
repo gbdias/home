@@ -5,7 +5,7 @@ description: Data Analyst | PhD
 
 baseurl: /gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: guilhermebdias@live.com
 
 
 highlighter: rouge
@@ -23,6 +23,7 @@ linkedin: "#"
 github: "gbdias"
 researchgate: "Guilherme-Dias-15"
 orcid: "0000-0002-1459-3148"
+scholar: "tPx5zYAAAAAJ&hl=en"
 
 highlighter: rouge
 markdown: kramdown
