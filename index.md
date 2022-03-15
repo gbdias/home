@@ -7,8 +7,10 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+I am a data analyst with experience in computational biology and genetics based in Brazil. I studied Biomedical Science in college and was immediatelly drawn to the universal aspects of genetics, which would allow one to study very diverse organisms under the same framework. I then went to grad school and got my Master's and Ph.D. in genetics, with an emphasis on genomics and bioinformatics. 
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+In 2018 I moved to the USA to work as a postdoctoral research associate at a computational biology lab. There I fell in love with data analysis and had the opportunity to work with large genomics datasets and to learn more about key data analysis skills including Unix tools, R programming, cluster computing, environment management with Anaconda, version control with Git, and more.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+After doing genomics data analysis for nearly four years I decided to broaden my analytic skills and re-tool my CV to explore a wider range of opportunities in data analytics. To this end I recently completed the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics){:target="_blank"}.
+
+In my free time I like to read, watch TV shows, and explore the city.
