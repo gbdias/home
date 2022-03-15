@@ -25,6 +25,15 @@ target="_blank">
 <i class="fab fa-github"></i>
 </a>
 {%- endif -%}
+  
+{%- if site.scholar -%}
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'Scholar' }}"
+class="social-button scholar"
+href="https://scholar.google.com/citations?user={{ site.scholar }}" itemprop="sameAs"
+target="_blank">
+<i class="fab fa-scholar"></i>
+</a>
+{%- endif -%}
 
 {%- if site.researchgate -%}
 <a title="{{ _locale_string_follow | replace: '[NAME]', 'ResearchGate' }}"
