@@ -4,7 +4,7 @@ title: 🚴 Cyclistic bikeshare
 description: Guided case study from Google Data Analytics
 ---
 
-The Google Data Analytics Professional Certificate instructs course takers to complete a guided case study simulating a real world scenario faced by a junior data analyst.
+The [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) instructs course takers to complete a guided case study simulating a real world scenario faced by a junior data analyst.
 
 **Scenario**
 
