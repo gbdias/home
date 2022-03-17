@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cyclistic bikeshare
+title: 🚴 Cyclistic bikeshare
 description: Guided case study from Google Data Analytics
 ---
 
