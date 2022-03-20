@@ -14,6 +14,6 @@ In 2018 I moved to the USA to work as a postdoctoral research associate. I fell 
 
 After working on genomics-focused data analysis for nearly four years I decided to broaden my skills and re-tool my CV to explore a wider range of opportunities. To this end, I recently completed the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics){:target="_blank"}.
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f0090011-6e19-4618-8161-9aaacb3b79f7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f0090011-6e19-4618-8161-9aaacb3b79f7" data-share-badge-host="https://www.credly.com" style="float:right;position: relative; top: -80px;"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 In my free time I like to explore the city, read, and watch TV shows.
