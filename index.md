@@ -16,4 +16,4 @@ After working on genomics-focused data analysis for nearly four years I decided 
 
 In my free time I like to explore the city, read, and watch TV shows.
 
-<div data-iframe-width="112.5" data-iframe-height="202.5" data-share-badge-id="f0090011-6e19-4618-8161-9aaacb3b79f7" data-share-badge-host="https://www.credly.com" style="float:none;position:relative;"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="200" data-iframe-height="270" data-share-badge-id="f0090011-6e19-4618-8161-9aaacb3b79f7" data-share-badge-host="https://www.credly.com" style="float:none;position:relative;"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
